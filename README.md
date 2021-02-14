@@ -18,11 +18,15 @@ Preview the prototype.
 
 ## DESIGN SCREENS:
 
+![output](./static/img/design.png)
 
 ## WIREFRAME:
 
+![output](./static/img/link.png)
 
 ## PROTOTYPE:
 
+![output](./static/img/pro.png)
 
 ## RESULT:
+Thus UX design is created for Manufacturing website.
